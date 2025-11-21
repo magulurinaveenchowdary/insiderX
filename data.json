@@ -111,7 +111,7 @@
         }
       ]
     }
-  ]
+  ],
 
 
 
@@ -193,12 +193,14 @@
   }
 ],
 
-  "venue":[
-   Address: "Hitex, Hyderabad, India",
-   Direction: " URL",
-   body: "Welcome to the event"
-   
+  "venue": [
+  {
+    "Address": "Hitex, Hyderabad, India",
+    "Direction": "URL",
+    "body": "Welcome to the event"
+  }
 ],
+
 
   "locations": [
     {
