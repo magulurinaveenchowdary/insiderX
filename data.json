@@ -33,75 +33,43 @@
     { "title": "Contacts", "icon": "contacts" },
     { "title": "Gallery", "icon": "photo" }
   ],
-  "AboutUs":[
-   "IIID Showcase InsiderX 2024",
-   "body Text"
-],
-
-  "committee": [
-  {
-    "name": "Sample Name 1",
-    "role": "Chairman",
-    "image": "https://via.placeholder.com/300x300.png?text=Member+1"
-  },
-  {
-    "name": "Sample Name 2",
-    "role": "Immediate Past Chairman",
-    "image": "https://via.placeholder.com/300x300.png?text=Member+2"
-  },
-  {
-    "name": "Sample Name 3",
-    "role": "Chairman Elect",
-    "image": "https://via.placeholder.com/300x300.png?text=Member+3"
-  },
-  {
-    "name": "Sample Name 4",
-    "role": "Vice Chairman Trade",
-    "image": "https://via.placeholder.com/300x300.png?text=Member+4"
-  },
-  {
-    "name": "Sample Name 5",
-    "role": "Hon. Secretary",
-    "image": "https://via.placeholder.com/300x300.png?text=Member+5"
-  },
+  "AboutUs": [
+    "IIID Showcase InsiderX 2024",
+    "body Text"
   ],
-
-
-
+  "committee": [
+    {
+      "name": "Sample Name 1",
+      "role": "Chairman",
+      "image": "https://via.placeholder.com/300x300.png?text=Member+1"
+    },
+    {
+      "name": "Sample Name 2",
+      "role": "Immediate Past Chairman",
+      "image": "https://via.placeholder.com/300x300.png?text=Member+2"
+    },
+    {
+      "name": "Sample Name 3",
+      "role": "Chairman Elect",
+      "image": "https://via.placeholder.com/300x300.png?text=Member+3"
+    },
+    {
+      "name": "Sample Name 4",
+      "role": "Vice Chairman Trade",
+      "image": "https://via.placeholder.com/300x300.png?text=Member+4"
+    },
+    {
+      "name": "Sample Name 5",
+      "role": "Hon. Secretary",
+      "image": "https://via.placeholder.com/300x300.png?text=Member+5"
+    }
+  ],
   "speakers": [
     {
       "name": "Ar. Peter Rich",
       "subtitle": "Architect | Author | Researcher",
       "bio": "",
-      "image": "/mnt/data/WhatsApp Image 2025-11-19 at 14.55.17_44212dab.jpg",
-      "topics": [
-        {
-          "date": "29th June",
-          "time": "10:30 AM Onwards",
-          "title": "ENGAGING MINDS - An Interactive Session",
-          "location": "Hall No. 2, HITEX"
-        }
-      ]
-    },
-    {
-      "name": "Ar. Peter Rich",
-      "subtitle": "Architect | Author | Researcher",
-      "bio": "",
-      "image": "/mnt/data/WhatsApp Image 2025-11-19 at 14.55.17_44212dab.jpg",
-      "topics": [
-        {
-          "date": "29th June",
-          "time": "10:30 AM Onwards",
-          "title": "ENGAGING MINDS - An Interactive Session",
-          "location": "Hall No. 2, HITEX"
-        }
-      ]
-    },
-    {
-      "name": "Ar. Peter Rich",
-      "subtitle": "Architect | Author | Researcher",
-      "bio": "",
-      "image": "/mnt/data/WhatsApp Image 2025-11-19 at 14.55.17_44212dab.jpg",
+      "image": "https://via.placeholder.com/400x400",
       "topics": [
         {
           "date": "29th June",
@@ -112,96 +80,90 @@
       ]
     }
   ],
-
-
-
   "scientific_program": [
-  {
-    "day": "Day 1 - 28th June",
-    "sessions": [
-      {
-        "time": "09:00 AM – 10:00 AM",
-        "title": "Opening Ceremony & Welcome Note",
-        "speaker": "Conference Committee",
-        "venue": "Main Hall A"
-      },
-      {
-        "time": "10:15 AM – 11:00 AM",
-        "title": "Future of Sustainable Architecture",
-        "speaker": "Invited Speaker 1",
-        "venue": "Hall B"
-      },
-      {
-        "time": "11:15 AM – 12:00 PM",
-        "title": "Design Thinking in Modern Cities",
-        "speaker": "Invited Speaker 2",
-        "venue": "Hall C"
-      },
-      {
-        "time": "02:00 PM – 03:00 PM",
-        "title": "Panel Discussion – Urban Challenges",
-        "speaker": "Panel of Experts",
-        "venue": "Main Hall A"
-      }
-    ]
-  },
-  {
-    "day": "Day 2 - 29th June",
-    "sessions": [
-      {
-        "time": "09:30 AM – 10:30 AM",
-        "title": "Innovations in Interior Design",
-        "speaker": "Invited Speaker 3",
-        "venue": "Hall D"
-      },
-      {
-        "time": "10:30 AM – 12:00 PM",
-        "title": "ENGAGING MINDS - An Interactive Session",
-        "speaker": "Guest Speaker",
-        "venue": "Hall No. 2, HITEX"
-      },
-      {
-        "time": "02:00 PM – 03:30 PM",
-        "title": "Smart Materials in Construction",
-        "speaker": "Technical Expert",
-        "venue": "Hall B"
-      }
-    ]
-  },
-  {
-    "day": "Day 3 - 30th June",
-    "sessions": [
-      {
-        "time": "09:00 AM – 10:00 AM",
-        "title": "Landscape Architecture – Beyond Aesthetics",
-        "speaker": "Invited Speaker 4",
-        "venue": "Hall A"
-      },
-      {
-        "time": "10:15 AM – 11:30 AM",
-        "title": "Workshops: Hands-on Design Exercises",
-        "speaker": "Workshop Team",
-        "venue": "Training Room 1"
-      },
-      {
-        "time": "12:00 PM – 01:00 PM",
-        "title": "Closing Remarks & Certificate Distribution",
-        "speaker": "Organizing Committee",
-        "venue": "Main Hall A"
-      }
-    ]
-  }
-],
-
+    {
+      "day": "Day 1 - 28th June",
+      "sessions": [
+        {
+          "time": "09:00 AM – 10:00 AM",
+          "title": "Opening Ceremony & Welcome Note",
+          "speaker": "Conference Committee",
+          "venue": "Main Hall A"
+        },
+        {
+          "time": "10:15 AM – 11:00 AM",
+          "title": "Future of Sustainable Architecture",
+          "speaker": "Invited Speaker 1",
+          "venue": "Hall B"
+        },
+        {
+          "time": "11:15 AM – 12:00 PM",
+          "title": "Design Thinking in Modern Cities",
+          "speaker": "Invited Speaker 2",
+          "venue": "Hall C"
+        },
+        {
+          "time": "02:00 PM – 03:00 PM",
+          "title": "Panel Discussion – Urban Challenges",
+          "speaker": "Panel of Experts",
+          "venue": "Main Hall A"
+        }
+      ]
+    },
+    {
+      "day": "Day 2 - 29th June",
+      "sessions": [
+        {
+          "time": "09:30 AM – 10:30 AM",
+          "title": "Innovations in Interior Design",
+          "speaker": "Invited Speaker 3",
+          "venue": "Hall D"
+        },
+        {
+          "time": "10:30 AM – 12:00 PM",
+          "title": "ENGAGING MINDS - An Interactive Session",
+          "speaker": "Guest Speaker",
+          "venue": "Hall No. 2, HITEX"
+        },
+        {
+          "time": "02:00 PM – 03:30 PM",
+          "title": "Smart Materials in Construction",
+          "speaker": "Technical Expert",
+          "venue": "Hall B"
+        }
+      ]
+    },
+    {
+      "day": "Day 3 - 30th June",
+      "sessions": [
+        {
+          "time": "09:00 AM – 10:00 AM",
+          "title": "Landscape Architecture – Beyond Aesthetics",
+          "speaker": "Invited Speaker 4",
+          "venue": "Hall A"
+        },
+        {
+          "time": "10:15 AM – 11:30 AM",
+          "title": "Workshops: Hands-on Design Exercises",
+          "speaker": "Workshop Team",
+          "venue": "Training Room 1"
+        },
+        {
+          "time": "12:00 PM – 01:00 PM",
+          "title": "Closing Remarks & Certificate Distribution",
+          "speaker": "Organizing Committee",
+          "venue": "Main Hall A"
+        }
+      ]
+    }
+  ],
   "venue": [
-  {
-    "Address": "Hitex, Hyderabad, India",
-    "Direction": "URL",
-    "body": "Welcome to the event"
-  }
-],
-
-
+    {
+      "Address": "Hitex, Hyderabad, India",
+      "Direction": "URL",
+      "body": "Welcome to the event"
+    }
+  ],
   "locations": [
     {
       "title": "Insider X 2024 (28, 29, 30th June 2024)",
@@ -219,128 +181,34 @@
       "action": "Direction"
     }
   ],
-
-  
   "exhibitors": [
-  {
-    "name": "Sample Exhibitor",
-    "stall": "Hall X - Stall Y",
-    "logo": "https://via.placeholder.com/200",
-    "banner": "https://via.placeholder.com/1200x400",
-    "about": "Sample about text...",
-    "website": "https://example.com",
-    "brochure": "https://example.com/brochure.pdf",
-    "email": "mail@example.com",
-    "phone": "+91 0000000000",
-    "address": "Sample address..."
-  },
-  {
-    "name": "Creative Designs Pvt. Ltd.",
-    "stall": "Hall A - Stall 12",
-    "logo": "https://via.placeholder.com/200?text=CD",
-    "banner": "https://via.placeholder.com/1200x400?text=Creative+Designs",
-    "about": "A leading design solutions company specializing in architectural and interior products.",
-    "website": "https://creativedesigns.com",
-    "brochure": "https://creativedesigns.com/brochure.pdf",
-    "email": "info@creativedesigns.com",
-    "phone": "+91 9876543210",
-    "address": "Plot 21, Industrial Estate, Hyderabad"
-  },
-  {
-    "name": "TechBuild Innovations",
-    "stall": "Hall B - Stall 7",
-    "logo": "https://via.placeholder.com/200?text=TB",
-    "banner": "https://via.placeholder.com/1200x400?text=TechBuild",
-    "about": "Innovative construction technology provider with sustainable building materials.",
-    "website": "https://techbuild.in",
-    "brochure": "https://techbuild.in/catalogue.pdf",
-    "email": "support@techbuild.in",
-    "phone": "+91 9123456780",
-    "address": "Sector 5, Tech Park, Bengaluru"
-  },
-  {
-    "name": "EcoStone Materials",
-    "stall": "Hall C - Stall 25",
-    "logo": "https://via.placeholder.com/200?text=EcoStone",
-    "banner": "https://via.placeholder.com/1200x400?text=Eco+Stone",
-    "about": "Manufacturers of eco-friendly stone, tiles, and construction materials.",
-    "website": "https://ecostone.com",
-    "brochure": "https://ecostone.com/brochure.pdf",
-    "email": "sales@ecostone.com",
-    "phone": "+91 9988776655",
-    "address": "Eco Industrial Zone, Pune"
-  },
-  {
-    "name": "InteriorWorld Displays",
-    "stall": "Hall D - Stall 3",
-    "logo": "https://via.placeholder.com/200?text=InteriorWorld",
-    "banner": "https://via.placeholder.com/1200x400?text=Interior+World",
-    "about": "Premium interior display and décor solutions for commercial and residential spaces.",
-    "website": "https://interiorworld.com",
-    "brochure": "https://interiorworld.com/brochure.pdf",
-    "email": "contact@interiorworld.com",
-    "phone": "+91 9090909090",
-    "address": "City Center Mall, Mumbai"
-  }
-],
-"links": [
-  {
-    "title": "Sample Link Title",
-    "url": "https://example.com"
-  },
-  {
-    "title": "Event Website",
-    "url": "https://eventwebsite.com"
-  },
-  {
-    "title": "Registration Form",
-    "url": "https://eventwebsite.com/register"
-  },
-  {
-    "title": "Download Program Schedule",
-    "url": "https://eventwebsite.com/schedule.pdf"
-  },
-  {
-    "title": "Venue Location (Google Maps)",
-    "url": "https://maps.google.com"
-  },
-  {
-    "title": "Exhibitor List",
-    "url": "https://eventwebsite.com/exhibitors"
-  },
-  {
-    "title": "Contact Support",
-    "url": "mailto:support@eventwebsite.com"
-  }
-],
-"documents": [
-  {
-    "title": "Sample PDF Document",
-    "pdf": "https://example.com/sample.pdf"
-  },
-  {
-    "title": "Event Brochure",
-    "pdf": "https://example.com/event-brochure.pdf"
-  },
-  {
-    "title": "Scientific Program Schedule",
-    "pdf": "https://example.com/scientific-program.pdf"
-  },
-  {
-    "title": "Exhibitor Handbook",
-    "pdf": "https://example.com/exhibitor-handbook.pdf"
-  },
-  {
-    "title": "Workshop Guidelines",
-    "pdf": "https://example.com/workshop-guidelines.pdf"
-  },
-  {
-    "title": "Terms & Conditions",
-    "pdf": "https://example.com/terms-and-conditions.pdf"
-  }
-],
-"feedback": "www.google.com",
-"contacts": [
+    {
+      "name": "Sample Exhibitor",
+      "stall": "Hall X - Stall Y",
+      "logo": "https://via.placeholder.com/200",
+      "banner": "https://via.placeholder.com/1200x400",
+      "about": "Sample about text...",
+      "website": "https://example.com",
+      "brochure": "https://example.com/brochure.pdf",
+      "email": "mail@example.com",
+      "phone": "+91 0000000000",
+      "address": "Sample address..."
+    }
+  ],
+  "links": [
+    {
+      "title": "Sample Link Title",
+      "url": "https://example.com"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Sample PDF Document",
+      "pdf": "https://example.com/sample.pdf"
+    }
+  ],
+  "feedback": "www.google.com",
+  "contacts": [
     {
       "title": "IIID Head Office Mumbai",
       "address": "109 Sumer Kendra, 1st Floor Pandurang Budhkar Marg Worli, Mumbai, Maharashtra, India - 400018",
@@ -370,7 +238,5 @@
       "time": "5 hours ago",
       "video": "YouTubeVideoId"
     }
-  ],
-
-
-  }
+  ]
+}
