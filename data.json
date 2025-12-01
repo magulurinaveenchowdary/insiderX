@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "Banner 1",
-      "image": "https://via.placeholder.com/1200x400"
+      "image": "https://tse2.mm.bing.net/th/id/OIP.ZxS8Z3vXt4dIkH8yuasKJQHaEK?pid=Api&P=0&h=220"
     },
     {
       "id": 2,
       "title": "Banner 2",
-      "image": "https://via.placeholder.com/1200x400"
+      "image": "https://tse2.mm.bing.net/th/id/OIP.6iErQBd-TXYyB-Yn93CkKgHaCe?pid=Api&P=0&h=220"
     },
     {
       "id": 3,
@@ -82,7 +82,7 @@
   ],
   "scientific_program": [
     {
-      "day": "Day 1 - 28th June",
+      "day": "28 June",
       "sessions": [
         {
           "time": "09:00 AM – 10:00 AM",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "day": "Day 2 - 29th June",
+      "day": "29 June",
       "sessions": [
         {
           "time": "09:30 AM – 10:30 AM",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "day": "Day 3 - 30th June",
+      "day": "30 June",
       "sessions": [
         {
           "time": "09:00 AM – 10:00 AM",
@@ -183,16 +183,64 @@
   ],
   "exhibitors": [
     {
-      "name": "Sample Exhibitor",
-      "stall": "Hall X - Stall Y",
-      "logo": "https://via.placeholder.com/200",
-      "banner": "https://via.placeholder.com/1200x400",
-      "about": "Sample about text...",
-      "website": "https://example.com",
-      "brochure": "https://example.com/brochure.pdf",
-      "email": "mail@example.com",
-      "phone": "+91 0000000000",
-      "address": "Sample address..."
+      "name": "TechNova Innovations",
+      "stall": "Hall 3 - Stall A12",
+      "logo": "https://via.placeholder.com/200x200?text=TechNova",
+      "banner": "https://via.placeholder.com/1200x400?text=TechNova+Innovations",
+      "about": "TechNova Innovations specializes in AI-powered automation tools that accelerate business workflows and streamline operations for enterprises across the globe.",
+      "website": "https://technova.example.com",
+      "brochure": "https://example.com/brochures/technova.pdf",
+      "email": "contact@technova.com",
+      "phone": "+1 408 555 1290",
+      "address": "2250 Innovation Drive, San Jose, CA, USA"
+    },
+    {
+      "name": "BioHeal Diagnostics",
+      "stall": "Hall 5 - Stall C21",
+      "logo": "https://via.placeholder.com/200x200?text=BioHeal",
+      "banner": "https://via.placeholder.com/1200x400?text=BioHeal+Diagnostics",
+      "about": "BioHeal Diagnostics is a medical technology company offering advanced diagnostic equipment, rapid test kits, and AI-assisted medical imaging solutions.",
+      "website": "https://bioheal.example.com",
+      "brochure": "https://example.com/brochures/bioheal.pdf",
+      "email": "info@bioheal.com",
+      "phone": "+44 20 7946 1123",
+      "address": "14 Oxford Street, London, United Kingdom"
+    },
+    {
+      "name": "GreenWave Energy Systems",
+      "stall": "Hall 2 - Stall B08",
+      "logo": "https://via.placeholder.com/200x200?text=GreenWave",
+      "banner": "https://via.placeholder.com/1200x400?text=GreenWave+Energy",
+      "about": "GreenWave Energy provides clean and sustainable power solutions including solar microgrids, EV charging technology, and renewable energy consulting.",
+      "website": "https://greenwave-energy.example.com",
+      "brochure": "https://example.com/brochures/greenwave.pdf",
+      "email": "support@greenwave.com",
+      "phone": "+971 55 123 7890",
+      "address": "Zayed Business Park, Dubai, UAE"
+    },
+    {
+      "name": "CyberFort Security Labs",
+      "stall": "Hall 1 - Stall D14",
+      "logo": "https://via.placeholder.com/200x200?text=CyberFort",
+      "banner": "https://via.placeholder.com/1200x400?text=CyberFort+Security",
+      "about": "CyberFort Security Labs develops next-generation cybersecurity tools, endpoint protection, and enterprise threat detection systems.",
+      "website": "https://cyberfort.example.com",
+      "brochure": "https://example.com/brochures/cyberfort.pdf",
+      "email": "sales@cyberfortlabs.com",
+      "phone": "+1 202 555 7841",
+      "address": "980 Security Lane, Washington DC, USA"
+    },
+    {
+      "name": "RoboSphere Technologies",
+      "stall": "Hall 4 - Stall F05",
+      "logo": "https://via.placeholder.com/200x200?text=RoboSphere",
+      "banner": "https://via.placeholder.com/1200x400?text=RoboSphere+Tech",
+      "about": "RoboSphere Technologies builds industrial robots, warehouse automation solutions, and humanoid assistance robots for commercial use.",
+      "website": "https://robosphere.example.com",
+      "brochure": "https://example.com/brochures/robosphere.pdf",
+      "email": "hello@robosphere.com",
+      "phone": "+81 3 1234 5678",
+      "address": "Chiyoda-ku, Tokyo, Japan"
     }
   ],
   "links": [
@@ -236,7 +284,7 @@
     {
       "title": "Sample Today Event",
       "time": "5 hours ago",
-      "video": "YouTubeVideoId"
+      "video": "nG78s6JsiPM"
     }
   ]
 }
